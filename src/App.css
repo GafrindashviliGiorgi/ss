@@ -1,0 +1,26 @@
+#card {
+  width: 200px;
+  height: 250px;
+  box-shadow: 0 0 20px 0 white;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  transition: 1s;
+}
+
+#card h1 {
+  text-align: center;
+}
+.pirveli {
+  background-color: aliceblue;
+  width: 300px;
+}
+
+.meore {
+  background-color: blueviolet;
+  color: white;
+}
+.car p {
+  text-align: center;
+}
