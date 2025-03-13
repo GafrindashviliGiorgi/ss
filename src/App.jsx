@@ -17,7 +17,7 @@ const [ricxvi, setRicxvi] = useState(1)
     <button onClick={ () => setRicxvi(ricxvi -1)}>-</button>
 
     </div>
-
+    <h1>rac kaia kaia</h1>
     </>
   )
 }
